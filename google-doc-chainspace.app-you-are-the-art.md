@@ -161,7 +161,7 @@ Timing = Weds timing TBD
 \
 
 
-Mint fee =TBD
+Mint fee = 0.33ETH (not 0.33BTC)
 
 \
 
