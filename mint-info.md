@@ -1,5 +1,97 @@
 # #mint-info
 
-| Date                | Username | User tag | Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Mentions  | link        |
-| ------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 2023-02-14,10:31:17 | timshel  | #2540    | <p>&#x3C;cross-posting and pinning this here></p><p><br></p><p>𝙲𝙷𝙰𝙸𝙽𝚂𝙿𝙰𝙲𝙴 𝚕𝚊𝚞𝚗𝚌𝚑𝚎𝚜 𝚒𝚗 𝟸𝟽.𝟻 𝚑𝚘𝚞𝚛𝚜</p><p>@everyone </p><p><br></p><p>• **__Mint Time__**: &#x3C;t:1676491200:f> </p><p>- with an early max 1x airdrop/mint for the ~100 &#x3C;@&#x26;1072753285959798816> so don't worry if you see those start to roll in</p><p><br></p><p>• **__Where__**: on ETH! via a custom Zora contract designed by &#x3C;@829205052006203402></p><p>└━━⫸&#x3C;<a href="https://chainspace.app/mint">https://chainspace.app/mint</a>></p><p><br></p><p>• **__Wait I thought this was BTC?__**: </p><p>> It IS!  The portals are fully inscribed on BTC as NFTs, and then the ETH contract renders them via the TokenURI, straight from <a href="http://ordinals.com">Ordinals.com</a>'s endpoint to BTC.</p><p><br></p><p>• **__How can I get the BTC side of the NFT?__**</p><p>> Once the tech is ready (seemingly not so far away), and if you want, our best intention is to set things up such that you'll be able to burn or trade it your ETH NFT to take custody of your BTC NFT (aka Inscription), or can just keep and trade/vault/etc with your ETH NFT.</p><p><br></p><p>• **__Mint fee__**: </p><p>> 0.33 (eth not btc lol)</p><p><br></p><p>• **__Supply__**: 800</p><p><br></p><p>• **__Allocation__**:</p><p>> **Airdrop** — 100 — dropped to the extended network of people who helped me bring this to life, coached me along my Web3 journey, and who have given me confidence and energy along the way</p><p>> </p><p>> **Allowlist Mint** — 620 — see below for AL criteria for &#x3C;@&#x26;1073334051596947606> and &#x3C;@&#x26;1073333321309896774> </p><p>> </p><p>> It will be overallocated, so no guarantees, but we’ll try not too go too crazy.  We’re doing an AL because we want try to avoid a gas war and botters.  If there are more available after the AL, we will open to public, or maybe come back to Discord to invite others with the &#x3C;@&#x26;1073333321309896774> role to mint too, if they missed submitting their wallets.</p><p>> </p><p>> **Team** — 60 — for the team (me, elranye + iain and loothero as a thank you for your heroism and care)</p><p>> </p><p>> **Special X-Portals** — 20 — some for the Terraforms community + an auction for the others. These will stay purely on BTC, not mirrored to ETH.</p><p><br></p><p>—————</p><p><br></p><p>please add your wallet here ASAP if you are &#x3C;@&#x26;1073334051596947606> or &#x3C;@&#x26;1072753285959798816> or if &#x3C;@&#x26;1073333321309896774> </p><p><br></p><p>↓↓↓↓ </p><p><br></p><p><a href="https://www.premint.xyz/chainspace/">https://www.premint.xyz/chainspace/</a></p><p><br></p><p>also see &#x3C;#1074355858932240404> </p><p><br></p><p>&#x3C;a:hearts:1074992064388935730> and happy Valentine's Day! &#x3C;a:hearts:1074992064388935730></p> | iain#0089 | <p><br></p> |
+𝙲𝙷𝙰𝙸𝙽𝚂𝙿𝙰𝙲𝙴 𝚕𝚊𝚞𝚗𝚌𝚑𝚎𝚜 𝚒𝚗 𝟸𝟽.𝟻 𝚑𝚘𝚞𝚛𝚜
+
+@everyone&#x20;
+
+
+
+• \*\*\_\_Mint Time\_\_\*\*: February 15, 2023 8:00 PM UTC (Coordinated Universal Time)
+
+\- with an early max 1x airdrop/mint for the \~100 <@&1072753285959798816> so don't worry if you see those start to roll in
+
+\
+
+
+• \*\*\_\_Where\_\_\*\*: on ETH! via a custom Zora contract designed by @iain#0089
+
+└━━⫸<[https://chainspace.app/mint](https://chainspace.app/mint)>
+
+\
+
+
+• \*\*\_\_Wait I thought this was BTC?\_\_\*\*:&#x20;
+
+\> It IS!  The portals are fully inscribed on BTC as NFTs, and then the ETH contract renders them via the TokenURI, straight from [Ordinals.com](http://ordinals.com)'s endpoint to BTC.
+
+\
+
+
+• \*\*\_\_How can I get the BTC side of the NFT?\_\_\*\*
+
+\> Once the tech is ready (seemingly not so far away), and if you want, our best intention is to set things up such that you'll be able to burn or trade it your ETH NFT to take custody of your BTC NFT (aka Inscription), or can just keep and trade/vault/etc with your ETH NFT.
+
+\
+
+
+• \*\*\_\_Mint fee\_\_\*\*:&#x20;
+
+\> 0.33 ETH (eth not btc lol)
+
+\
+
+
+• \*\*\_\_Supply\_\_\*\*: 800
+
+\
+
+
+• \*\*\_\_Allocation\_\_\*\*:
+
+\> \*\*Airdrop\*\* — 100 — dropped to the extended network of people who helped me bring this to life, coached me along my Web3 journey, and who have given me confidence and energy along the way
+
+\>&#x20;
+
+\> \*\*Allowlist Mint\*\* — 620 — see below for AL criteria for <@&1073334051596947606> and <@&1073333321309896774>&#x20;
+
+\>&#x20;
+
+\> It will be overallocated, so no guarantees, but we’ll try not too go too crazy.  We’re doing an AL because we want try to avoid a gas war and botters.  If there are more available after the AL, we will open to public, or maybe come back to Discord to invite others with the <@&1073333321309896774> role to mint too, if they missed submitting their wallets.
+
+\>&#x20;
+
+\> \*\*Team\*\* — 60 — for the team (me, elranye + iain and loothero as a thank you for your heroism and care)
+
+\>&#x20;
+
+\> \*\*Special X-Portals\*\* — 20 — some for the Terraforms community + an auction for the others. These will stay purely on BTC, not mirrored to ETH.
+
+\
+
+
+—————
+
+\
+
+
+please add your wallet here ASAP if you are <@&1073334051596947606> or <@&1072753285959798816> or if <@&1073333321309896774>&#x20;
+
+\
+
+
+↓↓↓↓&#x20;
+
+\
+
+
+[https://www.premint.xyz/chainspace/](https://www.premint.xyz/chainspace/)
+
+\
+
+
+also see <#1074355858932240404>&#x20;
+
+\
+
+
+\<a:hearts:1074992064388935730> and happy Valentine's Day! \<a:hearts:1074992064388935730>
