@@ -8,5 +8,4 @@ https://support.gamma.io/hc/en-us/articles/13818357809171-How-do-I-set-up-Sparro
 https://support.gamma.io/hc/en-us/articles/13795053057171-How-do-I-track-the-status-of-my-ordinal-inscription-
 https://support.gamma.io/hc/en-us/articles/13772220095891-What-file-types-are-supported-for-ordinal-inscription-images-on-Gamma-
 https://support.gamma.io/hc/en-us/articles/13732733167379-Which-Bitcoin-wallets-are-compatible-with-ordinal-inscriptions-
-https://discord.com/channels/987504378242007100/1018327878745722901
-https://discord.com/channels/987504378242007100/1073808983657283634
+https://discord.com/channels/1072636186608291840/1073341027403968633
